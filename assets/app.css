@@ -1,0 +1,15 @@
+body {
+    background-color: #000000 ;
+    margin: 0;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#slider_k .rc-slider-track {
+    background-color: #58a4b0;
+}
